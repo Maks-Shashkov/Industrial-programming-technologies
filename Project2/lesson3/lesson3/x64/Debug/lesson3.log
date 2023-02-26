@@ -1,0 +1,11 @@
+﻿  Main.cpp
+C:\Users\MaksS\Desktop\C++\Project2\lesson3\lesson3\Main.cpp(3,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\Users\MaksS\Desktop\C++\Project2\lesson3\lesson3\Header.h(15,14): warning C4244: return: преобразование "double" в "float", возможна потеря данных
+C:\Users\MaksS\Desktop\C++\Project2\lesson3\lesson3\Header.h(40,94): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\MaksS\Desktop\C++\Project2\lesson3\lesson3\Header.h(59,94): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  Source.cpp
+C:\Users\MaksS\Desktop\C++\Project2\lesson3\lesson3\Header.h(15,14): warning C4244: return: преобразование "double" в "float", возможна потеря данных
+C:\Users\MaksS\Desktop\C++\Project2\lesson3\lesson3\Header.h(40,94): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\MaksS\Desktop\C++\Project2\lesson3\lesson3\Header.h(59,94): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  Создание кода...
+  lesson3.vcxproj -> C:\Users\MaksS\Desktop\C++\Project2\lesson3\x64\Debug\lesson3.exe
