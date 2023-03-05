@@ -1,0 +1,10 @@
+﻿  main.cpp
+C:\Users\MaksS\Desktop\C++\Project3\Lesson3\Lesson3\Header.h(36,11): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\MaksS\Desktop\C++\Project3\Lesson3\Lesson3\Header.h(37,11): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  Source.cpp
+C:\Users\MaksS\Desktop\C++\Project3\Lesson3\Lesson3\Header.h(36,11): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\MaksS\Desktop\C++\Project3\Lesson3\Lesson3\Header.h(37,11): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\MaksS\Desktop\C++\Project3\Lesson3\Lesson3\Source.cpp(14,10): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\MaksS\Desktop\C++\Project3\Lesson3\Lesson3\Source.cpp(15,10): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  Создание кода...
+  Lesson3.vcxproj -> C:\Users\MaksS\Desktop\C++\Project3\Lesson3\x64\Debug\Lesson3.exe
