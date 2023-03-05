@@ -22,7 +22,7 @@ double eq2::find_X() {
     }
     else {
         if (D == 0) {
-            cout << "Корня один: " << endl;
+            cout << "Корень один: " << endl;
             double x = (-b - sqrt(D)) / (2 * a);
             cout << x << endl;
             return x;
