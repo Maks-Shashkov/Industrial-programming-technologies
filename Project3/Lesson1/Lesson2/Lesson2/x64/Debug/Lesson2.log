@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\MaksS\Desktop\C++\Project3\Lesson2\Lesson2\Source.cpp(17,13): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+  main.cpp
+  Создание кода...
+  Lesson2.vcxproj -> C:\Users\MaksS\Desktop\C++\Project3\Lesson2\x64\Debug\Lesson2.exe
