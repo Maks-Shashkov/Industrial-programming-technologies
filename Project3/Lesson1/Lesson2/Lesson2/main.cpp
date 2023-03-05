@@ -6,7 +6,7 @@ int main()
     while (true)
     {
         system("cls");
-        cout << "Ââåäèòå êîëè÷åñòâî äðîáåé: ";
+        cout << "Ð’Ð²ÐµÐ´Ð¸Ñ‚Ðµ ÐºÐ¾Ð»Ð¸Ñ‡ÐµÑÑ‚Ð²Ð¾ Ð´Ñ€Ð¾Ð±ÐµÐ¹:: ";
         cin >> n;
         if (n == 0)
         {
@@ -16,9 +16,9 @@ int main()
         system("cls");
         for (int i = 0; i < n; i++)
         {
-            cout << "×èñëèòåëü: ";
+            cout << "Ð§Ð¸ÑÐ»Ð¸Ñ‚ÐµÐ»ÑŒ: ";
             cin >> num;
-            cout << "Çíàìåíàòåëü: ";
+            cout << "Ð—Ð½Ð°Ð¼ÐµÐ½Ð°Ñ‚ÐµÐ»ÑŒ: ";
             cin >> dem;
             mas[i].set(num, dem);
             mas[i] = rational(num, dem);
